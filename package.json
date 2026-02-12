@@ -1,0 +1,17 @@
+{
+  "name": "tarea_npm_parcel",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Luis Aguilar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.htmln",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
